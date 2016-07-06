@@ -1,2 +1,2 @@
 # spamClassifierSVM
-Spam classifier using an SVM.
+This is an Email Spam classifier using a SVM employing Gaussian Kernel.
