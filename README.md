@@ -1,1 +1,1 @@
-# A Sentiment classifier module built using ensemble classifier employing scikit-learn, an Email Spam classifier using a SVM employing Gaussian Kernel.
+# A Sentiment classifier using inputs from named entity recognition. Module built using ensemble classifier employing scikit-learn, Stanford NLP lib.
